@@ -32,7 +32,7 @@ Un blog web inmersivo con temática de Elden Ring que presenta diseño dark fant
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo](tu-url-aqui) *(Actualiza con tu URL de GitHub Pages)*
+[Ver Demo](tu-url-aqui) 
 
 ## 📦 Instalación
 
