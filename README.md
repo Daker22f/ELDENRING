@@ -38,7 +38,7 @@ Un blog web inmersivo con temática de Elden Ring que presenta diseño dark fant
 
 1. **Clona el repositorio**
 
-https://github.com/Daker22f/ELDENRING.git <br> <br>
+git clone https://github.com/Daker22f/ELDENRING.git <br> <br>
 cd ELDENRING
 
 2. **Abre el archivo HTML**
